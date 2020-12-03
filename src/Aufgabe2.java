@@ -16,11 +16,10 @@ public class Aufgabe2 {
         FormTest.pack();
         FormTest.setVisible(true);
 
-        JLabel TextLabel = new JLabel();
-        TextLabel.setText("Hallo");
-        TextLabel.setFont(Font.getFont("calibri"));
-        TextLabel.setForeground(Color.RED);
-       // panel1.add(TextLabel);
+        JLabel text = new JLabel();
+        text.setText("Hallo");
+        text.setFont(Font.getFont("calibri"));
+        text.setForeground(Color.RED);
     }
 
 
