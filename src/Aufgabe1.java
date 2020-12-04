@@ -16,7 +16,7 @@ public class Aufgabe1 {
         //Wenn X gedrückt wird, soll das Programm auch beenden
         FormTest.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        //größe von panel wird an komponenten angepasst :
+        //größe von panel wird (an komponenten) angepasst :
         FormTest.setSize(500,500); //fullHD
         //FormTest.pack();
         //damit Panel sichtbar ist.
