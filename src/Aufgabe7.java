@@ -15,7 +15,6 @@ public class Aufgabe7 {
         JFrame FormTest = new JFrame();
         FormTest.setContentPane(new Aufgabe7().Panel1);
         FormTest.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
         FormTest.pack();
         FormTest.setVisible(true);
     }
